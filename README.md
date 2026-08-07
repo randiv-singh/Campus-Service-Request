@@ -2,8 +2,8 @@ Campus Service Request
 
 Student Details - 
 
-Name: Sashritha Singh 
-Student ID: 80001393  
+- Name: Sashritha Singh 
+- Student ID: 80001393  
 
 Target Domain - 
 
@@ -19,29 +19,26 @@ Campus Service Request is a mobile application that allows students to view camp
 
 Features - 
 
-:View service requests
-:Search requests
-:View request details
-:Mark requests as reviewed
-:Settings screen
+- View service requests
+- Search requests
+- View request details
+- Mark requests as reviewed
+- Settings screen
 
 Technologies Used - 
 
-:React Native
-:Expo
-:TypeScript
+- React Native
+- Expo
+- TypeScript
 
 Screenshots - 
 
 1. Home Screen
-Home Screen
 
 ![Home Screen](screenshots/home.png)
 2. Detail Screen
-Detail Screen
 
 ![Detail Screen](screenshots/detail.png)
 3. Settings Screen
-Settings Screen
 
 ![Settings Screen](screenshots/settings.png)
