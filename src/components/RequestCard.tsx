@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 18,
     fontWeight: "bold",
-    color: "#2E7D32",
+    color: "#1565C0",
   },
 
   location: {
@@ -104,22 +104,22 @@ const styles = StyleSheet.create({
   statusBox: {
     marginTop: 10,
     alignSelf: "flex-start",
-    backgroundColor: "#FFE082",
+    backgroundColor: "#BBDEFB",
     paddingHorizontal: 12,
     paddingVertical: 6,
     borderRadius: 20,
   },
 
   progress: {
-    backgroundColor: "#BBDEFB",
+    backgroundColor: "#90CAF9",
   },
 
   resolved: {
-    backgroundColor: "#C8E6C9",
+    backgroundColor: "#64B5F6",
   },
 
   status: {
     fontWeight: "bold",
-    color: "#333",
+    color: "#1565C0",
   },
 });

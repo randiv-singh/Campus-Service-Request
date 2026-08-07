@@ -5,12 +5,13 @@ export default function Layout() {
     <Stack
       screenOptions={{
         headerStyle: {
-          backgroundColor: "#4CAF50",
+          backgroundColor: "#2196F3",
         },
         headerTintColor: "#FFFFFF",
         headerTitleStyle: {
           fontWeight: "bold",
         },
+        headerShadowVisible: false,
       }}
     >
       <Stack.Screen

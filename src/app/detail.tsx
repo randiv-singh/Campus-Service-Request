@@ -116,71 +116,62 @@ export default function DetailScreen() {
 
 
 const styles = StyleSheet.create({
-
   container: {
     flex: 1,
-    backgroundColor: "#F1FFF4",
+    backgroundColor: "#EAF6FF",
     padding: 20,
   },
-
 
   title: {
     fontSize: 28,
     fontWeight: "bold",
-    color: "#2E7D32",
+    color: "#1565C0",
     textAlign: "center",
     marginBottom: 20,
   },
-
 
   card: {
     backgroundColor: "#FFFFFF",
     borderRadius: 15,
     padding: 20,
-    elevation: 4,
+    elevation: 3,
   },
-
 
   label: {
     fontSize: 16,
     fontWeight: "bold",
-    color: "#2E7D32",
+    color: "#1565C0",
     marginTop: 12,
   },
-
 
   value: {
     fontSize: 16,
     color: "#444",
-    marginTop: 5,
+    marginTop: 4,
   },
-
 
   description: {
     fontSize: 16,
     color: "#444",
-    marginTop: 5,
+    marginTop: 4,
     lineHeight: 22,
   },
-
 
   status: {
     fontSize: 18,
     fontWeight: "bold",
-    color: "#388E3C",
+    color: "#2196F3",
     marginTop: 8,
     marginBottom: 20,
   },
 
-
   button: {
-    backgroundColor: "#4CAF50",
-    padding: 14,
+    backgroundColor: "#42A5F5",
+    paddingVertical: 14,
     borderRadius: 12,
     alignItems: "center",
     marginBottom: 15,
   },
-
 
   buttonText: {
     color: "#FFFFFF",
@@ -188,31 +179,26 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
 
-
   reviewedButton: {
-    backgroundColor: "#C8E6C9",
-    padding: 14,
+    backgroundColor: "#BBDEFB",
+    paddingVertical: 14,
     borderRadius: 12,
     alignItems: "center",
     marginBottom: 15,
   },
 
-
   reviewedText: {
-    color: "#1B5E20",
+    color: "#1565C0",
     fontSize: 16,
     fontWeight: "bold",
   },
 
-
   settingsButton: {
-    backgroundColor: "#81C784",
-    padding: 14,
+    backgroundColor: "#2196F3",
+    paddingVertical: 14,
     borderRadius: 12,
     alignItems: "center",
-    marginBottom: 15,
   },
-
 
   settingsText: {
     color: "#FFFFFF",
@@ -220,19 +206,17 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
 
-
   homeButton: {
-    backgroundColor: "#2E7D32",
-    padding: 14,
+    marginTop: 15,
+    backgroundColor: "#1565C0",
+    paddingVertical: 14,
     borderRadius: 12,
     alignItems: "center",
   },
 
-
   homeText: {
     color: "#FFFFFF",
-    fontSize: 16,
     fontWeight: "bold",
+    fontSize: 16,
   },
-
 });

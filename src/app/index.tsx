@@ -63,29 +63,29 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 16,
-    backgroundColor: "#F1FFF4",
+    backgroundColor: "#EAF6FF",
   },
 
   heading: {
     fontSize: 28,
     fontWeight: "bold",
     textAlign: "center",
-    color: "#2E7D32",
+    color: "#1565C0",
     marginBottom: 15,
   },
 
   search: {
-    backgroundColor: "#fff",
+    backgroundColor: "#FFFFFF",
     borderRadius: 12,
     padding: 12,
     borderWidth: 1,
-    borderColor: "#A5D6A7",
+    borderColor: "#90CAF9",
     marginBottom: 15,
   },
 
   empty: {
     textAlign: "center",
-    color: "#388E3C",
+    color: "#1565C0",
     marginTop: 20,
     fontSize: 18,
   },
